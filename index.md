@@ -21,11 +21,11 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 ## Research
 * * * 
 
-- Large Deviations, Rare Event Analysis
+- Large Deviations and Rare Event Analysis
 
 - Statistical Learning under Heavy-tailed Dynamics
 
-- Simulation of Stochastic Processes with Infinite Activities
+- Lévy Processes, Simulation of Stochastic Processes with Infinite Activities
 
 
 <br/><br/>
@@ -57,7 +57,7 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 
 <br/><br/>
 
-## Conference Presentations
+## Presentations
 * * *
 
 Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises [[slides]](https://joshwang0322.github.io/DeepMath_Talk_website.pdf)
