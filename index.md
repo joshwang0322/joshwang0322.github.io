@@ -32,10 +32,12 @@ degree in Analytics from Northwestern University. My research interests include 
 ## Teaching Experience
 
 **Teaching Assistant**
+
 -IESM 317 Discrete Event Systems Simulation: 2022 Winter; 2021 Winter
 -IEMS 315 Stochastic Models: 2020 Spring, Fall; 2021 Spring, Fall
 
 **Course Grader**
+
 -OPNS 450 Decision models & Prescriptive Analytics: 2022 Winter
 -IEMS 435 Stochastic Simulation: 2020 Winter
 
