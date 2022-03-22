@@ -7,6 +7,8 @@ University](https://www.northwestern.edu/), advise by Prof. [Chang-Han Rhee](htt
 I received the B.S. degree in Psychology and Applied Mathematics from Peking University, China, and the M.S.
 degree in Analytics from Northwestern University. My research interests include applied probability, statistical learning, and simulation.
 
+<br/><br/>
+
 ## Contact
 * * * 
 
