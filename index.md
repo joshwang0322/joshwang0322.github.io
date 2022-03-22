@@ -66,4 +66,4 @@ Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying LÃ
 ## Services
 * * *
 
-Reviewer for _INFORMS Journal on Computing_
+- Reviewer for _INFORMS Journal on Computing_
