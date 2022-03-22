@@ -21,7 +21,7 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 ## Research
 * * * 
 
-- Large Deviations and Rare Event Analysis
+- Large Deviations, Rare Event Analysis
 - Statistical Leanring under Heavy-tailed Dynamics
 - Simulation of Stochastic Processes with Infinite Activities
 
