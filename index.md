@@ -9,7 +9,6 @@ degree in Analytics from Northwestern University. My research interests include 
 
 \
 \
-\
 
 ### Publications
 * * *
