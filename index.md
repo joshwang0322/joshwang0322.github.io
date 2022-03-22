@@ -2,7 +2,7 @@
 ## About Me 
 * * * 
 
-I am a PhD candidate in the Department of Industrial Engineering and Management Sciences at Northwestern
+I am a PhD candidate in the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at Northwestern
 University, advise by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 I received the B.S. degree in Psychology and Applied Mathematics from Peking University, China, and the M.S.
 degree in Analytics from Northwestern University. My research interests include applied probability, statistical learning, and simulation.
@@ -13,9 +13,9 @@ degree in Analytics from Northwestern University. My research interests include 
 ## Publications
 * * *
 
-**Wang X.**, Oh S., and Rhee C. (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
+**Wang X.**, Oh S., and Rhee C.-H. (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
 
-**Wang X.** and Rhee C. (2020), [Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying LÃ©vy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
+**Wang X.** and Rhee C.-H. (2020), [Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying LÃ©vy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
 
 **Wang X.** and Klabjan D. (2018), [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](http://proceedings.mlr.press/v80/wang18d/wang18d.pdf}{pdf), _Proceedings of the 35th International Conference on Machine Learning_
 
@@ -48,6 +48,13 @@ Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying LÃ
 
 <br/><br/>
 
+## Services
+* * *
+
+- Reviewer for _INFORMS Journal on Computing_
+
+<br/><br/>
+
 ## Teaching Experience
 * * *
 
@@ -63,7 +70,4 @@ Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying LÃ
 
 <br/><br/>
 
-## Services
-* * *
 
-- Reviewer for _INFORMS Journal on Computing_
