@@ -1,5 +1,5 @@
 
-### About Me 
+## About Me 
 * * * 
 
 I am a PhD candidate in the Department of Industrial Engineering and Management Sciences at Northwestern
@@ -10,7 +10,7 @@ degree in Analytics from Northwestern University. My research interests include 
 <br/><br/>
   
    
-### Publications
+## Publications
 * * *
 
 **Wang X.**, Oh S., and Rhee C. (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
@@ -23,7 +23,7 @@ degree in Analytics from Northwestern University. My research interests include 
 
 <br/><br/>
 
-### Honors and Awards
+## Honors and Awards
 * * *
 
 **Benjamin A. Sachs Graduate Fellowship** (2022), Department of Industrial Engineering and Management Sciences, Northwestern University
@@ -36,7 +36,7 @@ degree in Analytics from Northwestern University. My research interests include 
 
 <br/><br/>
 
-### Conference Presentations
+## Conference Presentations
 * * *
 
 Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises [[slides]](https://joshwang0322.github.io/DeepMath_Talk_website.pdf)
@@ -48,7 +48,7 @@ Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying LÃ
 
 <br/><br/>
 
-### Teaching Experience
+## Teaching Experience
 * * *
 
 **Teaching Assistant**
@@ -63,7 +63,7 @@ Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying LÃ
 
 <br/><br/>
 
-### Services
+## Services
 * * *
 
 Reviewer for _INFORMS Journal on Computing_
