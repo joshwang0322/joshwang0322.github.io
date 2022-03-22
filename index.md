@@ -19,7 +19,7 @@ degree in Analytics from Northwestern University. My research interests include 
 
 ## Honors and Awards
 
-**Benjamin A. Sachs Graduate Fellowship** (2022), Northwestern University
+**Benjamin A. Sachs Graduate Fellowship** (2022), Department of Industrial Engineering and Management Sciences, Northwestern University
 
 **Academic Excellence among First Year Graduate Students** (2019), Department of Industrial Engineering and Management Sciences, Northwestern University
 
