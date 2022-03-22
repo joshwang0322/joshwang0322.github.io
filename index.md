@@ -19,7 +19,7 @@ degree in Analytics from Northwestern University. My research interests include 
 
 **Wang X.** and Klabjan D. (2018), [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](http://proceedings.mlr.press/v80/wang18d/wang18d.pdf}{pdf), _Proceedings of the 35th International Conference on Machine Learning_
 
-**Wang X.**, Zhang L., and Klabjan D. (2021), [Keyword-based Topic Modeling and Keyword Selection](https://arxiv.org/pdf/2001.07866.pdf), _}Proceedings of 2021 IEEE Big Data_
+**Wang X.**, Zhang L., and Klabjan D. (2021), [Keyword-based Topic Modeling and Keyword Selection](https://arxiv.org/pdf/2001.07866.pdf), _Proceedings of 2021 IEEE Big Data_
 
 <br/><br/>
 
