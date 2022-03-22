@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/joshwang0322/joshwang0322.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD candidate in the Department of Industrial Engineering and Management Sciences at Northwestern
+University, advise by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
+I received the B.S. degree in Psychology and Applied Mathematics from Peking University, China, and the M.S.
+degree in Analytics from Northwestern University. My research interests include applied probability, statistical learning, and simulation.
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Wang X.**, Oh S., and Rhee C. (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
 
-```markdown
-Syntax highlighted code block
+**Wang X.** and Rhee C. (2020), [Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying L\'evy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
 
-# Header 1
-## Header 2
-### Header 3
+**Wang X.** and Klabjan D. (2018), [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](http://proceedings.mlr.press/v80/wang18d/wang18d.pdf}{pdf), _Proceedings of the 35th International Conference on Machine Learning_
 
-- Bulleted
-- List
+**Wang X.**, Zhang L., and Klabjan D. (2021), [Keyword-based Topic Modeling and Keyword Selection](https://arxiv.org/pdf/2001.07866.pdf), _}Proceedings of 2021 IEEE Big Data_
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Honors and Awards
 
-[Link](url) and ![Image](src)
-```
+**Benjamin A. Sachs Graduate Fellowship** (2022), Northwestern University
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Academic Excellence among First Year Graduate Students** (2019), Department of Industrial Engineering and Management Sciences, Northwestern University
 
-### Jekyll Themes
+**Lee Wai Wang Scholarship** (2015), Department of Psychology, Peking University
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshwang0322/joshwang0322.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**National Scholarship of Undergraduates** (2013), Department of Psychology, Peking University
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Teaching Experience
+
+**Teaching Assistant**
+-IESM 317 Discrete Event Systems Simulation: 2022 Winter; 2021 Winter
+-IEMS 315 Stochastic Models: 2020 Spring, Fall; 2021 Spring, Fall
+
+**Course Grader**
+-OPNS 450 Decision models & Prescriptive Analytics: 2022 Winter
+-IEMS 435 Stochastic Simulation: 2020 Winter
+
+
+## Services
+
+Reviewer for _INFORMS Journal on Computing_
