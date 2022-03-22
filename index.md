@@ -7,7 +7,7 @@ University, advise by Prof. [Chang-Han Rhee](https://chrhee.github.io/).
 I received the B.S. degree in Psychology and Applied Mathematics from Peking University, China, and the M.S.
 degree in Analytics from Northwestern University. My research interests include applied probability, statistical learning, and simulation.
 
-\
+ 
 
 ### Publications
 * * *
@@ -20,7 +20,7 @@ degree in Analytics from Northwestern University. My research interests include 
 
 **Wang X.**, Zhang L., and Klabjan D. (2021), [Keyword-based Topic Modeling and Keyword Selection](https://arxiv.org/pdf/2001.07866.pdf), _}Proceedings of 2021 IEEE Big Data_
 
-\
+ 
 
 ### Honors and Awards
 * * *
@@ -33,7 +33,7 @@ degree in Analytics from Northwestern University. My research interests include 
 
 **National Scholarship of Undergraduates** (2013), Department of Psychology, Peking University
 
-\
+ 
 
 ### Teaching Experience
 * * *
@@ -48,7 +48,7 @@ degree in Analytics from Northwestern University. My research interests include 
 - OPNS 450 Decision models & Prescriptive Analytics: 2022 Winter
 - IEMS 435 Stochastic Simulation: 2020 Winter
 
-\
+ 
 
 ### Services
 * * *
