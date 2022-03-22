@@ -9,10 +9,17 @@ degree in Analytics from Northwestern University. My research interests include 
 
 <br/><br/>
 
+## Research
+
+- Large Deviations and Rare Event Analysis
+- Statistical Leanring under Heavy-tailed Dynamics
+- Simulation of Stochastic Processes with Infinite Activities
+
+
 ## Contact
 * * * 
 
-2145 Sheridan Road, Evanston, IL 60208-3109
+2145 Sheridan Road, Evanston, IL 60208
 
 Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.edu)
 
