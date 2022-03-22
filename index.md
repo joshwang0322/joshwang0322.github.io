@@ -36,6 +36,17 @@ degree in Analytics from Northwestern University. My research interests include 
 
 <br/><br/>
 
+### Conference Presentations
+
+Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises [[slides]](https://drive.google.com/file/d/1LdVRq-OErnQsYkib-GCDJHaL1WmUBhUi/view?usp=sharing)
+- DeepMath (Nov, 2021), _Virtual_
+
+Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities [[slides]](https://drive.google.com/file/d/1ttC-dKMpLakkmnq7kYKnBHyIZA5eQdKH/view?usp=sharing)
+- Winter Simulation Conference (Dec, 2020), _Virtual_
+- INFORMS Annual Meeting (Nov, 2020), _Virtual_
+
+<br/><br/>
+
 ### Teaching Experience
 * * *
 
