@@ -10,7 +10,7 @@ degree in Analytics from Northwestern University. My research interests include 
 
 **Wang X.**, Oh S., and Rhee C. (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
 
-**Wang X.** and Rhee C. (2020), [Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying L\'evy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
+**Wang X.** and Rhee C. (2020), [Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
 
 **Wang X.** and Klabjan D. (2018), [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](http://proceedings.mlr.press/v80/wang18d/wang18d.pdf}{pdf), _Proceedings of the 35th International Conference on Machine Learning_
 
