@@ -37,6 +37,7 @@ degree in Analytics from Northwestern University. My research interests include 
 <br/><br/>
 
 ### Conference Presentations
+* * *
 
 Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises [[slides]](https://drive.google.com/file/d/1LdVRq-OErnQsYkib-GCDJHaL1WmUBhUi/view?usp=sharing)
 - DeepMath (Nov, 2021), _Virtual_
