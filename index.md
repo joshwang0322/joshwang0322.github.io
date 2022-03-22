@@ -2,10 +2,17 @@
 ## About Me 
 * * * 
 
-I am a PhD candidate in the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at Northwestern
-University, advise by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
+I am a PhD candidate in the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern
+University](https://www.northwestern.edu/), advise by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 I received the B.S. degree in Psychology and Applied Mathematics from Peking University, China, and the M.S.
 degree in Analytics from Northwestern University. My research interests include applied probability, statistical learning, and simulation.
+
+## Contact
+* * * 
+
+2145 Sheridan Road, Evanston, IL 60208-3109
+
+Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.edu)
 
 <br/><br/>
   
