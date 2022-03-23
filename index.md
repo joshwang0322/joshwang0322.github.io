@@ -38,7 +38,7 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 
 **Wang X.** and Rhee C.-H. (2020), [Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
 
-**Wang X.** and Klabjan D. (2018), [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](http://proceedings.mlr.press/v80/wang18d/wang18d.pdf}{pdf), _Proceedings of the 35th International Conference on Machine Learning_
+**Wang X.** and Klabjan D. (2018), [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](http://proceedings.mlr.press/v80/wang18d/wang18d.pdf), _Proceedings of the 35th International Conference on Machine Learning_
 
 **Wang X.**, Zhang L., and Klabjan D. (2021), [Keyword-based Topic Modeling and Keyword Selection](https://arxiv.org/pdf/2001.07866.pdf), _Proceedings of 2021 IEEE Big Data_
 
