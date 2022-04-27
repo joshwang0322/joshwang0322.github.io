@@ -3,7 +3,7 @@
 * * * 
 
 I am a PhD candidate in the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern
-University](https://www.northwestern.edu/), advise by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
+University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 I received the B.S. degree in Psychology and Applied Mathematics from Peking University, China, and the M.S.
 degree in Analytics from Northwestern University.
 
