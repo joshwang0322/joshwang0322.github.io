@@ -63,7 +63,7 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 * * *
 
 **Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises** [[slides]](https://joshwang0322.github.io/DeepMath_Talk_website.pdf)
-- International Conference on Learning Representations (Apr, 2022), _Vritual_
+- International Conference on Learning Representations (Apr, 2022), _Virtual_
 - DeepMath (Nov, 2021), _Virtual_
 
 **Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities** [[slides]](https://joshwang0322.github.io/WSC_2020_Slides%20_website.pdf)
