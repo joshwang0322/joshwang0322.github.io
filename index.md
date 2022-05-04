@@ -85,8 +85,12 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 
 **Teaching Assistant**
 
-- IESM 317 Discrete Event Systems Simulation: 2022 Winter; 2021 Winter
-- IEMS 315 Stochastic Models: 2020 Spring, Fall; 2021 Spring, Fall
+- IESM 317 Discrete Event Systems Simulation
+  - 2022 Winter
+  - 2021 Winter
+- IEMS 315 Stochastic Models
+  - 2021 Spring, Fall
+  - 2020 Spring, Fall
 
 **Course Grader**
 
