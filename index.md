@@ -51,7 +51,7 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 
 **Benjamin A. Sachs Graduate Fellowship** (2022), Department of Industrial Engineering and Management Sciences, Northwestern University
 
-**Academic Excellence among First Year Graduate Students** (2019), Department of Industrial Engineering and Management Sciences, Northwestern University
+**Arthur P. Hurter Award for Academic Excellence among First Year Graduate Students** (2019), Department of Industrial Engineering and Management Sciences, Northwestern University
 
 **Lee Wai Wang Scholarship** (2015), Peking University
 
