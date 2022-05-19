@@ -29,6 +29,14 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 
 
 <br/><br/>
+
+
+## Working Papers
+* * *
+**Wang X.**, and Rhee C.-H., Large deviations and metastability for Levy-driven stochastic differential equations and stochastic difference equations with heavy-tailed noise
+
+**Wang X.**, and Rhee C.-H., Strongly efficient rare-event simulation for multiple jump events in regularly varying Levy processes with infinite activities
+
   
    
 ## Publications
