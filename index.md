@@ -37,7 +37,7 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 
 **X. Wang** and C.-H. Rhee, Strongly Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities
 
-  
+<br/><br/>
    
 ## Publications
 * * *
