@@ -44,7 +44,7 @@ Strongly efficient rare-event simulation for multiple jump events in regularly v
 ## Publications
 * * *
 
-**X. Wang**, Oh S., and C.-H. Rhee (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
+**X. Wang**, S. Oh, and C.-H. Rhee (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
 
 **X. Wang** and C.-H. Rhee (2020), [Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
 
