@@ -33,22 +33,22 @@ Email: [xingyuwang2017@u.northwestern.edu](mailto:xingyuwang2017@u.northwestern.
 
 ## Working Papers
 * * *
-X. Wang and C.-H. Rhee, **Large Deviations and Metastability for Lévy-driven Stochastic Differential Equations and Stochastic Difference Equations with Heavy-tailed noise**
+**X. Wang** and C.-H. Rhee, Large Deviations and Metastability for Lévy-driven Stochastic Differential Equations and Stochastic Difference Equations with Heavy-tailed noise
 
-X. Wang and C.-H. Rhee, **Strongly Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities**
+**X. Wang** and C.-H. Rhee, Strongly Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities
 
   
    
 ## Publications
 * * *
 
-X. Wang, S. Oh, and C.-H. Rhee (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
+**X. Wang**, S. Oh, and C.-H. Rhee (2022), [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noises](https://openreview.net/pdf?id=B3Nde6lvab), _Proceedings of 2022 International Conference on Learning Representations_
 
-X. Wang and C.-H. Rhee (2020), [Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
+**X. Wang** and C.-H. Rhee (2020), [Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities](https://informs-sim.org/wsc20papers/034.pdf), _Proceedings of 2020 Winter Simulation Conference_
 
-X. Wang and D. Klabjan (2018), [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](http://proceedings.mlr.press/v80/wang18d/wang18d.pdf), _Proceedings of the 35th International Conference on Machine Learning_
+**X. Wang** and D. Klabjan (2018), [Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations](http://proceedings.mlr.press/v80/wang18d/wang18d.pdf), _Proceedings of the 35th International Conference on Machine Learning_
 
-X. Wang, L. Zhang, and D. Klabjan (2021), [Keyword-based Topic Modeling and Keyword Selection](https://arxiv.org/pdf/2001.07866.pdf), _Proceedings of 2021 IEEE Big Data_
+**X. Wang**, L. Zhang, and D. Klabjan (2021), [Keyword-based Topic Modeling and Keyword Selection](https://arxiv.org/pdf/2001.07866.pdf), _Proceedings of 2021 IEEE Big Data_
 
 <br/><br/>
 
