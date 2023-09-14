@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a Ph.D. candidate in the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern
-University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](https://chrhee.github.io/). I received B.S. degree in Psychology and Applied Mathematics from Peking University, China, and the M.S. degree in Analytics from Northwestern University.
+University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 
 Please find my CV [here](https://joshwang0322.github.io/files/XingyuWangCV2023Sep.pdf).
 
