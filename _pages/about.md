@@ -42,10 +42,10 @@ Research
 Honors and Awards
 ======
 
-- **Finalist for George Nicholson Student Paper Competition** (2023), INFORMS
-- **Terminal Year Fellowship** (2023), Northwestern University
-- **Nemhauser Prize for Best Student Paper** (2022), IEMS, Northwestern University
-- **Benjamin A. Sachs Graduate Fellowship** (2022), IEMS, Northwestern University
-- **Arthur P. Hurter Award for Academic Excellence among First Year Graduate Students** (2019), IEMS, Northwestern University
-- **Lee Wai Wang Scholarship** (2015), Peking University
-- **National Scholarship of Undergraduates** (2013), Peking University
+- Finalist for George Nicholson Student Paper Competition (2023), INFORMS
+- Terminal Year Fellowship (2023), Northwestern University
+- Nemhauser Prize for Best Student Paper (2022), IEMS, Northwestern University
+- Benjamin A. Sachs Graduate Fellowship (2022), IEMS, Northwestern University
+- Arthur P. Hurter Award for Academic Excellence among First Year Graduate Students (2019), IEMS, Northwestern University
+- Lee Wai Wang Scholarship (2015), Peking University
+- National Scholarship of Undergraduates (2013), Peking University
