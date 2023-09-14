@@ -27,14 +27,14 @@ I will present my work "**Eliminating Sharp Minima from SGD with Truncated Heavy
 - MC11. Large Deviations and Global Dynamics of Heavy-Tailed Systems
 - October 16 (Mon), 12:45 PM - 2:00 PM,  CC-North 124A
 
-I'm actively looking for junior faculty positions in engineering or business schools. My research interests align with the fields of **Operation Research, Industrial Engineering, and Machine Learning**. 
+I'm actively looking for junior faculty positions in engineering or business schools. My research interests align with the fields of **Operation Research and Industrial Engineering**. 
 
 <br/><br/>
 
 Research
 ======
 
-I’m broadly interested in applied probability, machine learning theory, and stochastic simulation. In particular, my work focuses on heavy-tailed phenomenon (i.e., extreme variability). Contrary to common belief, heavy tail is often the norm instead of an exception in areas such as finances, large-scale networks, and the training of AI. My work develops mathemaical tools like large deviations and metastability theories to understand how systems can deviate from expected behavior and how rare events manifest under the presence of heavy tails. Building upon such universal and powerful theories, I develop provably strong computational tools that can quantify, control, or even leverage the heavy-tailed phenomenon in modern algorithms and complex systems.
+I’m broadly interested in applied probability, machine learning theory, and stochastic simulation. In particular, my work focuses on heavy-tailed phenomenon (i.e., extreme variability). Contrary to common belief, heavy tail is often the norm instead of an exception in areas such as finance, large-scale networks, and the training of AI. My work develops mathemaical tools like large deviations and metastability theories to understand **how systems can deviate from expected behavior and how rare events manifest under the presence of heavy tails**. Building upon such universal and powerful theories, I develop provably strong computational tools that can **quantify**, **control**, or even **leverage the heavy-tailed phenomenon in modern algorithms and complex systems**.
 
 <br/><br/>
 
