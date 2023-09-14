@@ -14,6 +14,8 @@ University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](htt
 
 Please find my CV [here](https://joshwang0322.github.io/files/XingyuWangCV2023Sep.pdf).
 
+<br/><br/>
+
 I'm in the 2023-24 Academic Job Market
 ======
 
@@ -25,14 +27,16 @@ I will present my work "**Eliminating Sharp Minima from SGD with Truncated Heavy
 - MC11. Large Deviations and Global Dynamics of Heavy-Tailed Systems
 - October 16 (Mon), 12:45 PM - 2:00 PM,  CC-North 124A
 
+<br/><br/>
+
 Research
 ======
 
 - Rare Event Analysis, Large Deviations and Metastability, Heavy Tails
-
 - Machine Learning Theory
-
 - Stochastic Simulation
+
+<br/><br/>
 
 
 Honors and Awards
