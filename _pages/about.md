@@ -12,7 +12,8 @@ redirect_from:
 I am a Ph.D. candidate in the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern
 University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](https://chrhee.github.io/). I received B.S. degree in Psychology and Applied Mathematics from Peking University, China, and the M.S. degree in Analytics from Northwestern University.
 
-<font size="7">I'm in the 2023-24 Academic Job Market.</font>
+I'm in the 2023-24 Academic Job Market
+======
 
 [[CV]](https://joshwang0322.github.io/XingyuWangCV2023Sep.pdf)
 
@@ -28,19 +29,13 @@ I will present my work "**Eliminating Sharp Minima from SGD with Truncated Heavy
 Honors and Awards
 ======
 
-**Finalist for George Nicholson Student Paper Competition** (2023)
-
-**Terminal Year Fellowship** (2023), Northwestern University
-
-**Nemhauser Prize for Best Student Paper** (2022), IEMS, Northwestern University
-
-**Benjamin A. Sachs Graduate Fellowship** (2022), IEMS, Northwestern University
-
-**Arthur P. Hurter Award for Academic Excellence among First Year Graduate Students** (2019), IEMS, Northwestern University
-
-**Lee Wai Wang Scholarship** (2015), Peking University
-
-**National Scholarship of Undergraduates** (2013), Peking University
+- **Finalist for George Nicholson Student Paper Competition** (2023)
+- **Terminal Year Fellowship** (2023), Northwestern University
+- **Nemhauser Prize for Best Student Paper** (2022), IEMS, Northwestern University
+- **Benjamin A. Sachs Graduate Fellowship** (2022), IEMS, Northwestern University
+- **Arthur P. Hurter Award for Academic Excellence among First Year Graduate Students** (2019), IEMS, Northwestern University
+- **Lee Wai Wang Scholarship** (2015), Peking University
+- **National Scholarship of Undergraduates** (2013), Peking University
 
 
 
