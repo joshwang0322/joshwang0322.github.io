@@ -29,7 +29,7 @@ I will present my work "**Eliminating Sharp Minima from SGD with Truncated Heavy
 Honors and Awards
 ======
 
-- **Finalist for George Nicholson Student Paper Competition** (2023)
+- **Finalist for George Nicholson Student Paper Competition** (2023), INFORMS
 - **Terminal Year Fellowship** (2023), Northwestern University
 - **Nemhauser Prize for Best Student Paper** (2022), IEMS, Northwestern University
 - **Benjamin A. Sachs Graduate Fellowship** (2022), IEMS, Northwestern University
