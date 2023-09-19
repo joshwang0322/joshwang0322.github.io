@@ -20,8 +20,8 @@ I'm in the 2023-24 Academic Job Market
 ======
 
 I will present my work "**Large Deviation and Metastability Analysis for Heavy-Tailed Dynamical Systems**" at the 2023 INFORMS annual meeting:
-- George Nicholson Student Paper Competition
-- TBD
+- SC79. George Nicholson Student Paper Competition I
+- October 15 (Sun), 12:45 PM - 2:00 PM, CC-West 211B
 
 I will present my work "**Eliminating Sharp Minima from SGD with Truncated Heavy-Tailed Noise**" at the 2023 INFORMS annual meeting:
 - MC11. Large Deviations and Global Dynamics of Heavy-Tailed Systems
