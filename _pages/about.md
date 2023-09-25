@@ -21,6 +21,7 @@ I'm in the 2023-24 Academic Job Market
 
 I will present my work "**Large Deviation and Metastability Analysis for Heavy-Tailed Dynamical Systems**" at the 2023 Cornell ORIE Young researchers Workshop:
 - October 01(Sun)-03(Tue), TBD
+
 and at the 2023 INFORMS annual meeting:
 - SC79. George Nicholson Student Paper Competition I
 - October 15 (Sun), 12:45 PM - 2:00 PM, CC-West 211B
