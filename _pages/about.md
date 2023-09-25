@@ -19,7 +19,7 @@ Please find my CV [here](https://joshwang0322.github.io/files/XingyuWangCV2023Se
 I'm in the 2023-24 Academic Job Market
 ======
 
-I will present my work "**Large Deviation and Metastability Analysis for Heavy-Tailed Dynamical Systems**" at the 2023 Cornell ORIE Young researchers Workshop:
+I will present my work "**Large Deviation and Metastability Analysis for Heavy-Tailed Dynamical Systems**" at the 2023 Cornell ORIE Young Researchers Workshop:
 - October 01(Sun)-03(Tue), TBD
 
 and at the 2023 INFORMS annual meeting:
