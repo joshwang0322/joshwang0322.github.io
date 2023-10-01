@@ -30,8 +30,6 @@ I will also present my work "**Eliminating Sharp Minima from SGD with Truncated 
 - MC11. Large Deviations and Global Dynamics of Heavy-Tailed Systems
 - October 16 (Mon), 12:45 PM - 2:00 PM,  CC-North 124A
 
-I'm actively looking for junior faculty positions in engineering or business schools. My research interests align with the fields of **Operation Research and Industrial Engineering**. 
-
 <br/><br/>
 
 Research
