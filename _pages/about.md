@@ -12,23 +12,15 @@ redirect_from:
 I am a Ph.D. candidate in the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern
 University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 
-Please find my CV [here](https://joshwang0322.github.io/files/XingyuWangCV2023.pdf).
+**I'm in the 2023-24 Academic Job Market.** Please find my CV [here](https://joshwang0322.github.io/files/XingyuWangCV2023.pdf).
 
 <br/><br/>
 
-I'm in the 2023-24 Academic Job Market
+Upcoming Talks
 ======
 
-I will present my work "**Large Deviation and Metastability Analysis for Heavy-Tailed Dynamical Systems**" at the 2023 Cornell ORIE Young Researchers Workshop:
-- October 2 (Mon), 10:00 AM - 11:00 AM, Duffield Hall Atrium, 343 Campus Rd
-
-and at the 2023 INFORMS annual meeting:
-- SC79. George Nicholson Student Paper Competition I
-- October 15 (Sun), 12:45 PM - 2:00 PM, CC-West 211B
-
-I will also present my work "**Eliminating Sharp Minima from SGD with Truncated Heavy-Tailed Noise**" at the 2023 INFORMS annual meeting:
-- MC11. Large Deviations and Global Dynamics of Heavy-Tailed Systems
-- October 16 (Mon), 12:45 PM - 2:00 PM,  CC-North 124A
+I will give an advanced tutorial about "**Importance Sampling Strategy for Heavy-Tailed Systems with Catastrophe Principle**" at the 2023 Winter Simulation Conference:
+- December 12 (Tue), 1:30 PM - 3:00 PM, Conference Room 8
 
 <br/><br/>
 
@@ -45,7 +37,7 @@ I’m broadly interested in applied probability, machine learning theory, and st
 Honors and Awards
 ======
 
-- Finalist for George Nicholson Student Paper Competition (2023), INFORMS
+- Second Place, George Nicholson Student Paper Competition (2023), INFORMS
 - Terminal Year Fellowship (2023), Northwestern University
 - Nemhauser Prize for Best Student Paper (2022), IEMS, Northwestern University
 - Benjamin A. Sachs Graduate Fellowship (2022), IEMS, Northwestern University
