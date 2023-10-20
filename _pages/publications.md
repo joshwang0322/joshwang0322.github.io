@@ -9,7 +9,7 @@ Working Papers
 ------
 
 - X. Wang and C.-H. Rhee, Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems [[pdf]](https://arxiv.org/pdf/2307.03479.pdf) <br>
-  Second Place, **George Nicholson Student Paper Competition**, 2023
+  **Second Place, George Nicholson Student Paper Competition**, 2023
 - X. Wang and C.-H. Rhee, Strongly Efficient Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities [[pdf]](https://joshwang0322.github.io/files/WangRhee23a.pdf)
 - X. Wang and C.-H. Rhee, Tail Asymptotics for Stationary Distributions of Heavy-Tailed Processes
 
