@@ -22,6 +22,9 @@ Upcoming Talks
 I will give an advanced tutorial about "**Importance Sampling Strategy for Heavy-Tailed Systems with Catastrophe Principle**" at the 2023 Winter Simulation Conference:
 - December 12 (Tue), 1:30 PM - 3:00 PM, Conference Room 8
 
+I will present my work "**Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems**" at the Heavy Tails in ML workshop in NeurIPS 2023:
+- December 15 (Fri), TBD
+
 <br/><br/>
 
 Research
