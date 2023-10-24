@@ -16,7 +16,7 @@ University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](htt
 
 <br/><br/>
 
-Upcoming Talks
+Upcoming Presentations
 ======
 
 I will give an advanced tutorial about "**Importance Sampling Strategy for Heavy-Tailed Systems with Catastrophe Principle**" at the 2023 Winter Simulation Conference:
