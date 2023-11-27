@@ -19,6 +19,9 @@ University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](htt
 Upcoming Presentations
 ======
 
+I will give a talk about "**How to Characterize Global Dynamics with Rare-Event Analysis: A Heavy-Tail Framework in Deep Learning**" over Zoom at the Lightning Talk Session at SNAPP Seminar:
+- December 11 (Mon), 11:30 AM - 12:30 PM (Eastern Time), [Zoom Link](https://urldefense.com/v3/__https://northwestern.zoom.us/j/96923229476?pwd=c0h2My9OdENrUEhyZjA3Tmx6cHZUdz09__;!!Dq0X2DkFhyF93HkjWTBQKhk!WoCQ0eQxzbJWZk008iGgd5krzxEktfcc6Lmplz1RGmNhheSUYjO7akx1tMEyne04eHeJhG3qZHpTW34Ii1G_KDWGPQtj9SijS05-4EuzV__L4XTgIQ$), [SNAPP Seminar Website](https://sites.google.com/view/snappseminar/home?authuser=0)
+
 I will give an advanced tutorial about "**Importance Sampling Strategy for Heavy-Tailed Systems with Catastrophe Principle**" at the 2023 Winter Simulation Conference:
 - December 12 (Tue), 1:30 PM - 3:00 PM, Conference Room 8
 
