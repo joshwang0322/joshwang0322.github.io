@@ -49,4 +49,4 @@ Honors and Awards
 - Benjamin A. Sachs Graduate Fellowship (2022), IEMS, Northwestern University
 - Arthur P. Hurter Award for Academic Excellence among First Year Graduate Students (2019), IEMS, Northwestern University
 - Lee Wai Wang Scholarship (2015), Peking University
-- National Scholarship of Undergraduates (2013), Peking University
+- National Scholarship for Undergraduates (2013), Peking University
