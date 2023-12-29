@@ -12,7 +12,7 @@ redirect_from:
 I am a Ph.D. candidate in the [Department of Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern
 University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 
-**I'm in the 2023-24 Academic Job Market.** Please find my CV [here](https://joshwang0322.github.io/files/XingyuWangCV2023.pdf). For a brief summary of my research, please find my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
+**I'm in the 2023-24 Academic Job Market.** Please find my CV [here](https://joshwang0322.github.io/files/XingyuWangCV2023.pdf). For a brief summary of my research, please find the recording of my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
 
 <br/><br/>
 
