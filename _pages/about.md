@@ -16,7 +16,7 @@ University](https://www.northwestern.edu/) advised by Prof. [Chang-Han Rhee](htt
 
 <br/><br/>
 
-Upcoming Presentations
+<!-- Upcoming Presentations
 ======
 
 I will give a talk about "**How to Characterize Global Dynamics with Rare-Event Analysis: A Heavy-Tail Framework in Deep Learning**" over Zoom at the Lightning Talk Session at SNAPP Seminar:
@@ -28,7 +28,7 @@ I will give an advanced tutorial about "**Importance Sampling Strategy for Heavy
 I will present my poster "**Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems**" at the Heavy Tails in ML workshop in NeurIPS 2023:
 - December 15 (Fri), 16:10 PM - 17:30 PM, Rooms R02-R05
 
-<br/><br/>
+<br/><br/> -->
 
 Research
 ======
