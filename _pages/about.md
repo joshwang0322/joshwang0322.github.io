@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "Xingyu Wang"
 author_profile: true
 redirect_from: 
