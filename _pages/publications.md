@@ -15,14 +15,14 @@ Submitted and Working Papers
   Xingyu Wang, Chang-Han Rhee <br>
   Major Revision at *Mathematics of Operations Research*
 - **Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes** [[preprint]](https://arxiv.org/pdf/2503.01004) <br>
-  Jose Blanchet$^*$, Roger J. A. Laeven$^*$, Xingyu Wang$^*$ and Bert Zwart$^*$ <br>
+  Jose Blanchet<sub>*</sub>, Roger J. A. Laeven<sub>*</sub>, Xingyu Wang<sub>*</sub>, Bert Zwart<sub>*</sub> <br>
   Submitted to *The Annals of Applied Probability*
 - **Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems** [[preprint]](https://arxiv.org/pdf/2307.03479.pdf) <br>
   Xingyu Wang, Chang-Han Rhee <br>
   Reubmitted to *The Annals of Applied Probability* <br>
   Second Place, *George Nicholson Student Paper Competition, 2023*
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [[preprint]](https://arxiv.org/pdf/2504.01119) <br>
-  Jose Blanchet$^*$, Roger J. A. Laeven$^*$, Xingyu Wang$^*$ and Bert Zwart$^*$
+  Jose Blanchet<sub>*</sub>, Roger J. A. Laeven<sub>*</sub>, Xingyu Wang<sub>*</sub>, Bert Zwart<sub>*</sub> <br>
 - **Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics** [[preprint]](https://arxiv.org/pdf/2501.19239) <br>
   Xingyu Wang, Mengfan Xu
 
