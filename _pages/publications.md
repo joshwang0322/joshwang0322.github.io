@@ -19,7 +19,7 @@ Submitted and Working Papers
   Submitted to *The Annals of Applied Probability*
 - **Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems** [[preprint]](https://arxiv.org/pdf/2307.03479.pdf) <br>
   Xingyu Wang, Chang-Han Rhee <br>
-  Reubmitted to *The Annals of Applied Probability* <br>
+  Resubmitted to *The Annals of Applied Probability* <br>
   Second Place, *George Nicholson Student Paper Competition, 2023*
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [[preprint]](https://arxiv.org/pdf/2504.01119) <br>
   Jose Blanchet<sup>\*</sup>, Roger J. A. Laeven<sup>\*</sup>, Xingyu Wang<sup>\*</sup>, Bert Zwart<sup>\*</sup> <br>
