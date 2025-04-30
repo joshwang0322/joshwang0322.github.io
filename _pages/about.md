@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoc researcher at the Department of Quantitative Economics at the [University of Amsterdam](https://www.uva.nl/en), working with Prof. [Roger J.A. Laeven](https://www.rogerlaeven.nl) and Prof. [Bert Zwart](https://www.tue.nl/en/research/researchers/bert-zwart). I earned my Ph.D. from the Department of Industrial Engineering and Management Sciences at [Northwestern
 University](https://www.northwestern.edu/), under the supervison of Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 
-Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang__2025.pdf). For a brief summary of my research, please find the recording of my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
+Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang__2025_.pdf). For a brief summary of my research, please find the recording of my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
 
 <br/><br/>
 
