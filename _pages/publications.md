@@ -25,7 +25,8 @@ Submitted and Working Papers
   Resubmitted to *The Annals of Applied Probability* <br>
   Second Place, *George Nicholson Student Paper Competition, 2023*
 - **Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics** [[preprint]](https://arxiv.org/pdf/2501.19239) <br>
-  Xingyu Wang, Mengfan Xu
+  Xingyu Wang, Mengfan Xu <br>
+  Resubmitted to *Winter Simulation Conference, 2025* <br>
 
 
    
