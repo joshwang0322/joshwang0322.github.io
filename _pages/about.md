@@ -21,10 +21,10 @@ Research
 ======
 
 My research interests lie broadly in applied probability, particularly in the following topics:
-- Large Deviations, Metastability, Heavy Tails: [2](https://arxiv.org/pdf/2503.01004), [3](https://arxiv.org/pdf/2504.01119), [4](https://arxiv.org/pdf/2307.03479)
-- Hawkes Processes: [2](https://arxiv.org/pdf/2503.01004), [3](https://arxiv.org/pdf/2504.01119)
-- Machine Learning: [5](https://arxiv.org/pdf/2501.19239), [7](https://openreview.net/pdf?id=B3Nde6lvab), [9](https://proceedings.mlr.press/v80/wang18d/wang18d.pdf)
-- Stochastic Simulation: [1](https://arxiv.org/pdf/2309.13820), [6](https://joshwang0322.github.io/files/WangRhee23b.pdf), [8](https://informs-sim.org/wsc20papers/034.pdf)
+- Large Deviations, Metastability, Heavy Tails: [[2]](https://arxiv.org/pdf/2503.01004), [[3]](https://arxiv.org/pdf/2504.01119), [[4]](https://arxiv.org/pdf/2307.03479)
+- Hawkes Processes: [[2]](https://arxiv.org/pdf/2503.01004), [[3]](https://arxiv.org/pdf/2504.01119)
+- Machine Learning: [[5]](https://arxiv.org/pdf/2501.19239), [[7]](https://openreview.net/pdf?id=B3Nde6lvab), [[9]](https://proceedings.mlr.press/v80/wang18d/wang18d.pdf)
+- Stochastic Simulation: [[1]](https://arxiv.org/pdf/2309.13820), [[6]](https://joshwang0322.github.io/files/WangRhee23b.pdf), [[8]](https://informs-sim.org/wsc20papers/034.pdf)
 
 For a brief summary of my research on the characterization and control of global dynamics of SGD via heavy-tailed large deviations theory, please find the recording of my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
 
