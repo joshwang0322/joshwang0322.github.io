@@ -21,7 +21,7 @@ Research
 ======
 
 My research interests lie broadly in applied probability, particularly in the following topics:
-- Large Deviations and Metastability
+- Large Deviations, Metastability
 - Heavy Tails
 - Hawkes Processes
 - Machine Learning
