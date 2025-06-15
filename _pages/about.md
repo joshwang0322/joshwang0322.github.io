@@ -20,8 +20,8 @@ Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang__202
 Research
 ======
 
-
-- Large Deviations, Metastability
+My research interests lie broadly in applied probability, particularly in the following topics:
+- Large Deviations and Metastability
 - Heavy Tails
 - Hawkes Processes
 - Machine Learning
