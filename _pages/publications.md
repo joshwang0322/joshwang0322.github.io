@@ -12,8 +12,8 @@ Submitted and Working Papers
 ------
 
 - **Strongly Efficient Rare-Event Simulation for Regularly Varying Lévy Processes with Infinite Activities** [[preprint]](https://arxiv.org/pdf/2309.13820) <br>
-  > Xingyu Wang, Chang-Han Rhee <br>
-  > Major Revision at *Mathematics of Operations Research*
+  >> Xingyu Wang, Chang-Han Rhee <br>
+  >> Major Revision at *Mathematics of Operations Research*
 - **Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes** [[preprint]](https://arxiv.org/pdf/2503.01004) <br>
   Jose Blanchet<sup>\*</sup>, Roger J. A. Laeven<sup>\*</sup>, Xingyu Wang<sup>\*</sup>, Bert Zwart<sup>\*</sup> <br>
   Submitted to *The Annals of Applied Probability*
