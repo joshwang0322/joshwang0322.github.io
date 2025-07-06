@@ -14,20 +14,19 @@ Submitted and Working Papers
 - **Strongly Efficient Rare-Event Simulation for Regularly Varying Lévy Processes with Infinite Activities** [[preprint]](https://arxiv.org/pdf/2309.13820) <br>
   Xingyu Wang, Chang-Han Rhee <br>
   Major Revision at *Mathematics of Operations Research*
+- **Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems** [[preprint]](https://arxiv.org/pdf/2307.03479.pdf) <br>
+  Xingyu Wang, Chang-Han Rhee <br>
+  Major Revision at *The Annals of Applied Probability* <br>
+  Second Place, **George Nicholson Student Paper Competition, 2023**
 - **Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes** [[preprint]](https://arxiv.org/pdf/2503.01004) <br>
   Jose Blanchet<sup>\*</sup>, Roger J. A. Laeven<sup>\*</sup>, Xingyu Wang<sup>\*</sup>, Bert Zwart<sup>\*</sup> <br>
   Submitted to *The Annals of Applied Probability*
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [[preprint]](https://arxiv.org/pdf/2504.01119) <br>
   Jose Blanchet<sup>\*</sup>, Roger J. A. Laeven<sup>\*</sup>, Xingyu Wang<sup>\*</sup>, Bert Zwart<sup>\*</sup> <br>
   Submitted to *Bernoulli*
-- **Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems** [[preprint]](https://arxiv.org/pdf/2307.03479.pdf) <br>
-  Xingyu Wang, Chang-Han Rhee <br>
-  Resubmitted to *The Annals of Applied Probability* <br>
-  Second Place, **George Nicholson Student Paper Competition, 2023**
 - **Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics** [[preprint]](https://arxiv.org/pdf/2501.19239) <br>
   Xingyu Wang, Mengfan Xu <br>
   Resubmitted to *Winter Simulation Conference, 2025* <br>
-
 
    
 Selected Publications
