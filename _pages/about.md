@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoc researcher at the Department of Quantitative Economics at the [University of Amsterdam](https://www.uva.nl/en), working with Prof. [Roger J.A. Laeven](https://www.rogerlaeven.nl) and Prof. [Bert Zwart](https://www.tue.nl/en/research/researchers/bert-zwart). I earned my Ph.D. from the Department of Industrial Engineering and Management Sciences at [Northwestern
 University](https://www.northwestern.edu/), under the supervision of Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 
-**I'm on the 2025-2026 academic job market for tenure-track positions in operations research and applied probability.** Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang__2025_.pdf). 
+**I'm on the 2025-2026 academic job market for tenure-track positions.** Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang__2025_.pdf). 
 
 
 <br>
