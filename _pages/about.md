@@ -14,14 +14,14 @@ University](https://www.northwestern.edu/), under the supervision of Prof. [Chan
 **I'm on the 2025-2026 job market for tenure-tracked academic positions.** Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang__2025_.pdf). 
 
 
-
+<br>
 
 Upcoming Presentations
 ======
-- **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes**
+- **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes** <br>
   Bldg A Lvl 4 A405, Tuesday, October 28 | 4:15 PM - 5:30 PM, *INFORMS Annual Meeting, Atlanta, GA*
 
-
+<br>
 
 Research
 ======
@@ -34,7 +34,7 @@ My research interests lie broadly in applied probability, particularly in the fo
 For a brief summary of my research on the characterization and control of global dynamics of SGD via heavy-tailed large deviations theory, please find the recording of my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
 
 
-
+<br>
 
 Honors and Awards
 ======
