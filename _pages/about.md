@@ -18,7 +18,7 @@ University](https://www.northwestern.edu/), under the supervision of Prof. [Chan
 
 Upcoming Presentations
 ======
-- **Large Deviations for Multivariate Heavy-Tailed Hawkes Processes**
+- **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes**
   Bldg A Lvl 4 A405, Tuesday, October 28 | 4:15 PM - 5:30 PM, *INFORMS Annual Meeting, Atlanta, GA*
 
 
