@@ -40,6 +40,9 @@ Conference Papers
   Xingyu Wang, Sewoong Oh, Chang-Han Rhee <br>
   Proceedings of the Tenth *International Conference on Learning Representations (ICLR)*, 2022 [[pdf]](https://openreview.net/pdf?id=B3Nde6lvab)  <br>
   **Nemhauser Prize for Best Student Paper, 2020**
+- **Keyword-Based Topic Modeling and Keyword Selection**  <br>
+  Xingyu Wang, Lida Zhang, Diego Klabjan <br>
+  Proceedings of *IEEE Big Data*, 2021 [[pdf]](https://arxiv.org/pdf/2001.07866.pdf)
 - **Rare-Event Simulation for Multiple Jump Events in Regularly Varying Lévy Processes with Infinite Activities**  <br>
   Xingyu Wang, Chang-Han Rhee <br>
   Proceedings of *Winter Simulation Conference*, 2020 [[pdf]](https://informs-sim.org/wsc20papers/034.pdf)
