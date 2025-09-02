@@ -18,6 +18,8 @@ University](https://www.northwestern.edu/), under the supervision of Prof. [Chan
 
 Upcoming Presentations
 ======
+- **Sharp Characterization and Control of Global Dynamics of SGDs with Heavy Tails** <br>
+  Thursday, September 18 | 15:15 - 16:00, *University of Copenhagen, Statistics Seminar*
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes** <br>
   Bldg A Lvl 4 A405, Tuesday, October 28 | 4:15 PM - 5:30 PM, *INFORMS Annual Meeting, Atlanta, GA*
 
