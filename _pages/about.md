@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoc researcher at the Department of Quantitative Economics at the [University of Amsterdam](https://www.uva.nl/en), working with Prof. [Roger J.A. Laeven](https://www.rogerlaeven.nl) and Prof. [Bert Zwart](https://www.tue.nl/en/research/researchers/bert-zwart). I earned my Ph.D. from the Department of Industrial Engineering and Management Sciences at [Northwestern
 University](https://www.northwestern.edu/), under the supervision of Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
 
-Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang_2025.pdf). 
+Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang__2025_.pdf). 
 
 
 
@@ -22,7 +22,6 @@ Research
 
 My research interests lie broadly in applied probability, particularly in the following topics:
 - Large Deviations, Metastability, Heavy Tails: [[2]](https://arxiv.org/pdf/2503.01004), [[3]](https://arxiv.org/pdf/2504.01119), [[4]](https://arxiv.org/pdf/2307.03479)
-- Hawkes Processes: [[2]](https://arxiv.org/pdf/2503.01004), [[3]](https://arxiv.org/pdf/2504.01119)
 - Machine Learning: [[5]](https://arxiv.org/pdf/2501.19239), [[7]](https://openreview.net/pdf?id=B3Nde6lvab), [[9]](https://proceedings.mlr.press/v80/wang18d/wang18d.pdf)
 - Rare-Event Simulation: [[1]](https://arxiv.org/pdf/2309.13820), [[6]](https://joshwang0322.github.io/files/WangRhee23b.pdf), [[8]](https://informs-sim.org/wsc20papers/034.pdf)
 

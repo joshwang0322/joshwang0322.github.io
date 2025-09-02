@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(\*: alphabetical authorship)
+($\alpha-\beta$: alphabetical authorship)
 
 
 Submitted and Working Papers
@@ -19,19 +19,20 @@ Submitted and Working Papers
   Major Revision at *The Annals of Applied Probability* <br>
   Second Place, **George Nicholson Student Paper Competition, 2023**
 - **Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes** [[preprint]](https://arxiv.org/pdf/2503.01004) <br>
-  Jose Blanchet<sup>\*</sup>, Roger J. A. Laeven<sup>\*</sup>, Xingyu Wang<sup>\*</sup>, Bert Zwart<sup>\*</sup> <br>
+  ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
   Submitted to *The Annals of Applied Probability*
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [[preprint]](https://arxiv.org/pdf/2504.01119) <br>
-  Jose Blanchet<sup>\*</sup>, Roger J. A. Laeven<sup>\*</sup>, Xingyu Wang<sup>\*</sup>, Bert Zwart<sup>\*</sup> <br>
+  ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
   Submitted to *Bernoulli*
-- **Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics** [[preprint]](https://arxiv.org/pdf/2501.19239) <br>
-  Xingyu Wang, Mengfan Xu <br>
-  Resubmitted to *Winter Simulation Conference, 2025* <br>
+
 
    
-Selected Publications
+Conference Papers
 ------
 
+- **Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics** [[preprint]](https://arxiv.org/pdf/2501.19239) <br>
+  Xingyu Wang, Mengfan Xu <br>
+  To appear at *Winter Simulation Conference, 2025* <br>
 - **Importance Sampling Strategy for Heavy-Tailed Systems with Catastrophe Principle** <br>
   Xingyu Wang, Chang-Han Rhee <br>
   Proceedings of *Winter Simulation Conference*, 2023 [[pdf]](https://joshwang0322.github.io/files/WangRhee23b.pdf)
