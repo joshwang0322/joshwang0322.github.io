@@ -16,11 +16,11 @@ Submitted and Working Papers
   Major Revision at *Mathematics of Operations Research*
 - **Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems** [[preprint]](https://arxiv.org/pdf/2307.03479.pdf) <br>
   Xingyu Wang, Chang-Han Rhee <br>
-  Major Revision at *The Annals of Applied Probability* <br>
+  Major Revision at *Annals of Applied Probability* <br>
   Second Place, **George Nicholson Student Paper Competition, 2023**
 - **Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes** [[preprint]](https://arxiv.org/pdf/2503.01004) <br>
   ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
-  Submitted to *The Annals of Applied Probability*
+  Submitted to *Annals of Applied Probability*
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [[preprint]](https://arxiv.org/pdf/2504.01119) <br>
   ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
   Submitted to *Bernoulli*
