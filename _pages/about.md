@@ -54,12 +54,12 @@ Honors and Awards
 Teaching
 =====
 
-- **Theses Supervisor**
+- **Theses Supervisor** <br>
   UvA, Master’s Theses, Actuarial Science and Mathematical Finance (2025) <br>
   UvA, Bachelor’s Theses, Actuarial Science (2025) <br>
-- **Instructor**
+- **Instructor** <br>
   IEMS Bootcamp (Probability) for PhD Students (2022,2023) <br>
-- **Teaching Assistant**
+- **Teaching Assistant** <br>
   UvA Introduction to Data Science (2025) <br>
   UvA Non-Life Insurance: Statistical Techniques and Data Analytics (2024, 2025) <br>
   NU IEMS 317 Discrete Event Systems Simulation (2021 Winter, 2022 Winter) <br>
