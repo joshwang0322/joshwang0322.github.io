@@ -48,3 +48,25 @@ Honors and Awards
 - Arthur P. Hurter Award for Academic Excellence among First Year Graduate Students (2019), IEMS, Northwestern University
 - Lee Wai Wang Scholarship (2015), Peking University
 - National Scholarship for Undergraduates (2013), Peking University
+
+<br>
+
+Teaching
+=====
+
+Theses Supervisor
+- UvA, Master’s Theses, Actuarial Science and Mathematical Finance (2025)
+- UvA, Bachelor’s Theses, Actuarial Science (2025)
+
+Instructor
+- IEMS Bootcamp (Probability) for PhD Students (2022,2023)
+
+Teaching Assistant
+- UvA Introduction to Data Science (2025)
+- UvA Non-Life Insurance: Statistical Techniques and Data Analytics (2024, 2025)
+- NU IEMS 317 Discrete Event Systems Simulation (2021 Winter, 2022 Winter)
+- NU IEMS 315 Stochastic Models (2020 Spring/Fall, 2021 Spring/Fall)
+
+Course Grader
+- NU OPNS 450 Decision Models & Prescriptive Analytics (2020 Winter)
+- NU IEMS 435 Stochastic Simulation (2020 Winter)
