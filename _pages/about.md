@@ -18,10 +18,8 @@ University](https://www.northwestern.edu/), under the supervision of Prof. [Chan
 
 Upcoming Presentations
 ======
-- **Sharp Characterization and Control of Global Dynamics of SGDs with Heavy Tails** <br>
-  Thursday, September 18 | 15:15 - 16:00, *University of Copenhagen, Statistics Seminar*
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes** <br>
-  Tuesday, October 28 | 4:15 PM - 5:30 PM, Bldg A Lvl 4 A405, *INFORMS Annual Meeting, Atlanta, GA*
+  Tuesday, October 28 | Learning, Control and Queues, 4:15 PM - 5:30 PM, Bldg A Lvl 4 A405, *INFORMS Annual Meeting, Atlanta, GA*
 
 <br>
 
@@ -42,6 +40,7 @@ For a brief summary of my research on the characterization and control of global
 Honors and Awards
 ======
 
+- Nemhauser Best Dissertation Prize (2025), IEMS, Northwestern University
 - Second Place, George Nicholson Student Paper Competition (2023), INFORMS
 - Terminal Year Fellowship (2023), Northwestern University
 - Nemhauser Prize for Best Student Paper (2022), IEMS, Northwestern University
