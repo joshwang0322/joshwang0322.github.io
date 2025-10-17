@@ -31,7 +31,7 @@ I’m broadly interested in applied probability, machine learning, and stochasti
 - The heavy-tailed large deviation theory lays the foundation for efficient rare-event simulation algorithms in a wide range of contexts; In [[3]](https://joshwang0322.github.io/files/WangRhee23b.pdf) we illustrate its application in the contexts of option pricing, stochastic approximation, and queuing systems; In [[4]](https://arxiv.org/pdf/2309.13820) we successfully extend the algorithm to address the particularly challenging cases where it is computationally infeasible to simulate or store the underlying process.
 - My works [[5]](https://arxiv.org/pdf/2503.01004)[[6]](https://arxiv.org/pdf/2504.01119) study large deviations in multivariate branching processes and Hawkes processes, which is pivotal for understanding and estimating risks and uncertainties that amplify and cascade across populations, markets, and networks through temporal and spatial feedback.
 
-For a brief summary of my research on the characterization and control of global dynamics of SGD via heavy-tailed large deviations theory, please find the recording of my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
+See the [Publication](https://joshwang0322.github.io/publications/) page for details. For a brief summary of my research on the characterization and control of global dynamics of SGD via heavy-tailed large deviations theory, please find the recording of my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
 
 
 <br>
