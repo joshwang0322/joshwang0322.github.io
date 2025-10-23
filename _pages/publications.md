@@ -24,6 +24,8 @@ Submitted and Working Papers
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [[preprint]](https://arxiv.org/pdf/2504.01119) <br>
   ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
   Submitted to *Bernoulli*
+- **Global Dynamics of Heavy-Tailed SGDs in Nonconvex Loss Landscape: Characterization and Control** <br>
+  Xingyu Wang, Chang-Han Rhee
 
 
    
