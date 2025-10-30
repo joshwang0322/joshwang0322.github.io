@@ -14,12 +14,12 @@ University](https://www.northwestern.edu/), under the supervision of Prof. [Chan
 **I'm on the 2025-2026 academic job market for tenure-track positions.** Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang_2025.pdf). 
 
 
-<br>
+<!-- <br>
 
 Upcoming Presentations
 ======
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes** <br>
-  Tuesday, October 28 | Learning, Control and Queues, 4:15 PM - 5:30 PM, Bldg A Lvl 4 A405, *INFORMS Annual Meeting, Atlanta, GA*
+  Tuesday, October 28 | Learning, Control and Queues, 4:15 PM - 5:30 PM, Bldg A Lvl 4 A405, *INFORMS Annual Meeting, Atlanta, GA* -->
 
 <br>
 
