@@ -25,7 +25,8 @@ Submitted and Working Papers
   ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
   Major Revision at *Bernoulli*
 - **Global Dynamics of Heavy-Tailed SGDs in Nonconvex Loss Landscape: Characterization and Control** [[preprint]](https://arxiv.org/pdf/2510.20905) <br>
-  Xingyu Wang, Chang-Han Rhee
+  Xingyu Wang, Chang-Han Rhee <br>
+  Submitted to *Operations Research*
 
 
    
@@ -34,7 +35,7 @@ Conference Papers
 
 - **Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics** [[preprint]](https://arxiv.org/pdf/2501.19239) <br>
   Xingyu Wang, Mengfan Xu <br>
-  To appear at *Winter Simulation Conference, 2025* <br>
+  *Winter Simulation Conference, 2025* <br>
 - **Importance Sampling Strategy for Heavy-Tailed Systems with Catastrophe Principle** <br>
   Xingyu Wang, Chang-Han Rhee <br>
   Proceedings of *Winter Simulation Conference*, 2023 [[pdf]](https://joshwang0322.github.io/files/WangRhee23b.pdf)
