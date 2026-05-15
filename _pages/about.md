@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 I am a postdoc researcher at the Department of Quantitative Economics at the [University of Amsterdam](https://www.uva.nl/en), working with Prof. [Roger J.A. Laeven](https://www.rogerlaeven.nl) and Prof. [Bert Zwart](https://www.tue.nl/en/research/researchers/bert-zwart). I earned my Ph.D. from the Department of Industrial Engineering and Management Sciences at [Northwestern
-University](https://www.northwestern.edu/), under the supervision of Prof. [Chang-Han Rhee](https://chrhee.github.io/). 
+University](https://www.northwestern.edu/), under the supervision of Prof. [Chang-Han Rhee](https://chrhee.github.io/). Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang.pdf). 
 
-Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang_2025.pdf). 
+**Starting in fall 2026, I will join [Antai College of Economics & Management](https://www.acem.sjtu.edu.cn/en/) at Shanghai Jiao Tong University as an assistant professor.**
+
+
 
 
 <!-- <br>
@@ -23,22 +25,20 @@ Upcoming Presentations
 
 <br>
 
-Research
+Research Interests 
 ======
 
-I’m broadly interested in applied probability, machine learning, and stochastic simulation. In particular, my work focuses on the **heavy-tailed phenomenon** (i.e., extreme variability) in stochastic systems. Contrary to common belief, heavy tail is often the norm rather than an exception in significant applications in areas such as finance, large-scale networks, and the training of modern machine learning and AI models. My work develops mathematical tools such as large deviations to rigorously characterize **how systems can deviate from expected behavior and how rare events manifest** under the presence of heavy tails. What's particularly surprising and valuable is that, based on knowledge of atypical behaviors (rare events), I can provide a **comprehensive characterization of the typical behaviors** (i.e., metastability) of the global dynamics (see [[1]](https://arxiv.org/pdf/2307.03479.pdf)). Building upon such universal and powerful theories, I develop provably strong computational tools that can quantify, control, or even leverage the heavy-tailed phenomenon in modern algorithms and complex systems. For instance:
-- My work [[7]](https://arxiv.org/pdf/2510.20905) (conference version with preliminary results: [[2]](https://openreview.net/pdf?id=B3Nde6lvab)) rigorously characterizes a fascinating phenomenon where injecting and then truncating heavy-tailed noises during the training phase of deep neural networks can lead to improved generalization performance during the test phase.
-- The heavy-tailed large deviation theory lays the foundation for efficient rare-event simulation algorithms in a wide range of contexts; In [[3]](https://joshwang0322.github.io/files/WangRhee23b.pdf) we illustrate its application in the contexts of option pricing, stochastic approximation, and queueing systems; In [[4]](https://arxiv.org/pdf/2309.13820) we successfully extend the algorithm to address the particularly challenging cases where it is computationally infeasible to simulate or store the underlying process.
-- My works [[5]](https://arxiv.org/pdf/2503.01004)[[6]](https://arxiv.org/pdf/2504.01119) study large deviations in multivariate branching processes and Hawkes processes, which are pivotal for understanding and estimating risks and uncertainties that amplify and cascade across populations, markets, and networks through temporal and spatial feedback.
-
-See the [Publication](https://joshwang0322.github.io/publications/) page for details. For a brief summary of my research on the characterization and control of global dynamics of SGD via heavy-tailed large deviations theory, please find the recording of my [lightning talk](https://youtu.be/iXtA03euFQY?si=hadEnBdoLAH_ojpx&t=2831) at the [SNAPP](https://sites.google.com/view/snappseminar/home?authuser=0) seminar. 
-
+- Rare Event Analysis, Large Deviations, Metastability, Heavy Tails
+- Stochastic Simulation
+- Machine Learning
+- Self-Exciting Processes
 
 <br>
 
 Honors and Awards
 ======
 
+- Danish Data Science Academy Visit Grants (2026)
 - Nemhauser Best Dissertation Prize (2025), IEMS, Northwestern University
 - Second Place, George Nicholson Student Paper Competition (2023), INFORMS
 - Terminal Year Fellowship (2023), Northwestern University
@@ -54,8 +54,8 @@ Teaching
 =====
 
 - **Theses Supervisor** <br>
-  UvA, Master’s Theses, Actuarial Science and Mathematical Finance (2025) <br>
-  UvA, Bachelor’s Theses, Actuarial Science (2025) <br>
+  UvA, Master’s Theses, Actuarial Science and Mathematical Finance (2025, 2026) <br>
+  UvA, Bachelor’s Theses, Actuarial Science (2025, 2026) <br>
 - **Instructor** <br>
   IEMS Bootcamp (Probability) for PhD Students (2022,2023) <br>
 - **Teaching Assistant** <br>
