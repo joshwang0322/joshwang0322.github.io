@@ -10,9 +10,9 @@ author_profile: true
 
 Journal Papers
 ------
-- **Strongly Efficient Rare-Event Simulation for Regularly Varying Lévy Processes with Infinite Activities** [[preprint]](https://arxiv.org/pdf/2309.13820) <br>
+- [**Strongly Efficient Rare-Event Simulation for Regularly Varying Lévy Processes with Infinite Activities**](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0627) <br>
   Xingyu Wang, Chang-Han Rhee <br>
-  To appear at *Mathematics of Operations Research*
+  *Mathematics of Operations Research*
 
 Submitted and Working Papers
 ------
