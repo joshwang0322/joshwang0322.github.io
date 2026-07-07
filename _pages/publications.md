@@ -36,7 +36,7 @@ Submitted and Working Papers
 Conference Papers
 ------
 
-- [**Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics**](https://arxiv.org/pdf/2501.19239) <br>
+- [**Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics**](https://www.informs-sim.org/wsc25papers/inv145.pdf) <br>
   Xingyu Wang, Mengfan Xu <br>
   *Winter Simulation Conference, 2025* <br>
 - [**Importance Sampling Strategy for Heavy-Tailed Systems with Catastrophe Principle**](https://joshwang0322.github.io/files/WangRhee23b.pdf) <br>
