@@ -16,20 +16,22 @@ Journal Papers
 
 Submitted and Working Papers
 ------
-
+- [**Global Dynamics of Heavy-Tailed SGDs in Nonconvex Loss Landscape: Characterization and Control**](https://arxiv.org/pdf/2510.20905) <br>
+  Xingyu Wang, Chang-Han Rhee <br>
+  Major Revision at *Operations Research*
+- [**Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes**](https://arxiv.org/pdf/2504.01119) <br>
+  ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
+  Major Revision at *Bernoulli*
+- [**Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes**](https://arxiv.org/pdf/2503.01004) <br>
+  ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
+  Major Revision at *Annals of Applied Probability*
 - [**Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems**](https://arxiv.org/pdf/2307.03479.pdf) <br>
   Xingyu Wang, Chang-Han Rhee <br>
   Major Revision at *Annals of Applied Probability* <br>
   Second Place, **INFORMS George Nicholson Student Paper Competition, 2023**
-- [**Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes**](https://arxiv.org/pdf/2503.01004) <br>
-  ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
-  Major Revision at *Annals of Applied Probability*
-- [**Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes**](https://arxiv.org/pdf/2504.01119) <br>
-  ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
-  Major Revision at *Bernoulli*
-- [**Global Dynamics of Heavy-Tailed SGDs in Nonconvex Loss Landscape: Characterization and Control**](https://arxiv.org/pdf/2510.20905) <br>
-  Xingyu Wang, Chang-Han Rhee <br>
-  Submitted to *Operations Research*
+
+
+
 
 
    
