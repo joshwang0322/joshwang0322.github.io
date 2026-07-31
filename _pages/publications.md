@@ -27,7 +27,7 @@ Submitted and Working Papers
   Major Revision at *Annals of Applied Probability*
 - [**Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems**](https://arxiv.org/pdf/2307.03479.pdf) <br>
   Xingyu Wang, Chang-Han Rhee <br>
-  Major Revision at *Annals of Applied Probability* <br>
+  Minor Revision at *Annals of Applied Probability* <br>
   Second Place, **INFORMS George Nicholson Student Paper Competition, 2023**
 
 
