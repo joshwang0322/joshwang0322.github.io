@@ -21,7 +21,7 @@ Submitted and Working Papers
   Major Revision at *Operations Research*
 - [**Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes**](https://arxiv.org/pdf/2504.01119) <br>
   ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
-  Major Revision at *Bernoulli*
+  Minor Revision at *Bernoulli*
 - [**Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes**](https://arxiv.org/pdf/2503.01004) <br>
   ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
   Major Revision at *Annals of Applied Probability*
