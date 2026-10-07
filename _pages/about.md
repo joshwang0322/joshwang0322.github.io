@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am an Assistant Professor in the Department of Management Science at [Antai College of Economics and Management, Shanghai Jiao Tong University
-](https://www.acem.sjtu.edu.cn/en/). From 2024-2026, I was a postdoctoral researcher in the Department of Quantitative Economics at the [University of Amsterdam](https://www.uva.nl/en), working with Prof. [Roger J.A. Laeven](https://www.rogerlaeven.nl) and Prof. [Bert Zwart](https://www.tue.nl/en/research/researchers/bert-zwart). I earned my Ph.D. from the Department of Industrial Engineering and Management Sciences at [Northwestern
+](https://www.acem.sjtu.edu.cn/en/). 
+
+From 2024-2026, I was a postdoctoral researcher in the Department of Quantitative Economics at the [University of Amsterdam](https://www.uva.nl/en), working with Prof. [Roger J.A. Laeven](https://www.rogerlaeven.nl) and Prof. [Bert Zwart](https://www.tue.nl/en/research/researchers/bert-zwart). In 2024, I earned my Ph.D. from the Department of Industrial Engineering and Management Sciences at [Northwestern
 University](https://www.northwestern.edu/), under the supervision of Prof. [Chang-Han Rhee](https://chrhee.github.io/). Before my Ph.D., I received my master's degree in Analytics from [Northwestern
 University](https://www.northwestern.edu/) in 2017, and bachelor's degrees in both Psychology and Applied Mathematics from [Peking University](https://english.pku.edu.cn) in 2016. Please find my CV [here](https://joshwang0322.github.io/files/CV_XingyuWang.pdf).
 
