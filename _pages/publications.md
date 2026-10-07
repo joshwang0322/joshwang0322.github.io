@@ -12,10 +12,10 @@ Journal Papers
 ------
 - **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [ [arXiv] ](https://arxiv.org/pdf/2504.01119) <br>
   ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
-  *Bernoulli*, Accept
+  *Bernoulli*, Accepted
 - **Strongly Efficient Rare-Event Simulation for Regularly Varying Lévy Processes with Infinite Activities** [ [MOR] ](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0627) <br>
   Xingyu Wang, Chang-Han Rhee <br>
-  *Mathematics of Operations Research*, Accept
+  *Mathematics of Operations Research*, Accepted
 
 Submitted and Working Papers
 ------
