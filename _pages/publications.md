@@ -10,12 +10,17 @@ author_profile: true
 
 Journal Papers
 ------
-- **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [ [arXiv] ](https://arxiv.org/pdf/2504.01119) <br>
-  ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
-  *Bernoulli*, Accepted
 - **Strongly Efficient Rare-Event Simulation for Regularly Varying Lévy Processes with Infinite Activities** [ [MOR] ](https://pubsonline.informs.org/doi/abs/10.1287/moor.2024.0627) <br>
   Xingyu Wang, Chang-Han Rhee <br>
   *Mathematics of Operations Research*, Accepted
+- **Sample Path Large Deviations for Multivariate Heavy-Tailed Hawkes Processes and Related Lévy Processes** [ [arXiv] ](https://arxiv.org/pdf/2504.01119) <br>
+  ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
+  *Bernoulli*, Accepted
+- **Locally Uniform Sample-Path Large Deviations for Truncated Heavy-Tailed Dynamical Systems** [ [arXiv] ](https://arxiv.org/pdf/2307.03479.pdf) <br>
+  Xingyu Wang, Chang-Han Rhee <br>
+ *Annals of Applied Probability*, Accepted <br>
+  Second Place, **INFORMS George Nicholson Student Paper Competition, 2023** (preprint under a different title)
+
 
 Submitted and Working Papers
 ------
@@ -25,10 +30,7 @@ Submitted and Working Papers
 - **Tail Asymptotics of Cluster Sizes in Multivariate Heavy-Tailed Hawkes Processes** [ [arXiv] ](https://arxiv.org/pdf/2503.01004) <br>
   ($\alpha-\beta$) Jose Blanchet, Roger J. A. Laeven, Xingyu Wang, Bert Zwart <br>
   Major Revision at *Annals of Applied Probability*
-- **Large Deviations and Metastability Analysis for Heavy-Tailed Dynamical Systems** [ [arXiv] ](https://arxiv.org/pdf/2307.03479.pdf) <br>
-  Xingyu Wang, Chang-Han Rhee <br>
-  Minor Revision at *Annals of Applied Probability* <br>
-  Second Place, **INFORMS George Nicholson Student Paper Competition, 2023**
+
 
 
 
